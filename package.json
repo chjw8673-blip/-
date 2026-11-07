@@ -1,0 +1,8 @@
+{
+  "name": "lemon-market-live",
+  "version": "1.1.0",
+  "private": true,
+  "description": "5-round real-time classroom lemon market experiment",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
